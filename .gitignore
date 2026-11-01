@@ -1,0 +1,11 @@
+.env
+*.key
+*.pem
+id_rsa*
+config.yml
+*.jar
+world/
+backups/
+*.zip
+*.tar.gz
+*.log
